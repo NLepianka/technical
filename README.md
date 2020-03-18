@@ -18,6 +18,10 @@ An excerpt of the first chapter of the dissertation, "Yet of Books There Are A P
 
 The DissertationCompile.tex contains the code for printing the dissertation in accordance with the dissertation submission guidelines of Texas A&M University's Graduate School.
 
+# Syllabus
+
+A sample syllabus drafted for a course titled "Cultures of Data." This syllabus was formmatted in accordance with the standards of Texas A&M University.
+
 # The Editor and the Aggregate
 
 Article forthcoming in Textual Cultures, Fall 2020.
