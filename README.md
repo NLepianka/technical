@@ -8,6 +8,10 @@ The files were encoded according to the standards prescribed by the TEI P5 guide
 
 The repository includes, as three separate files, a critical introduction, the text of <em>Little Wars</em>, and a streamlined ruleset.
 
+# ENGL203 Character Creation Guidelines
+
+This slideshow describes the process of character creation for the Savage Worlds tabletop system. This slideshow was created for use by a classroom of undergraduate students engaging with a tabletop gaming project for the purpose of exploring narrative construction and intent.
+
 # Supervised LDA
 
 The R scripts and comments associated with the supervised Latent Dirichlet Allocation (sLDA) process for modeling topics found in textual documents. 
@@ -25,3 +29,7 @@ A sample syllabus drafted for a course titled "Cultures of Data." This syllabus 
 # The Editor and the Aggregate
 
 Article forthcoming in Textual Cultures, Fall 2020.
+
+
+
+
